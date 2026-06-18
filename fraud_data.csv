@@ -1,0 +1,11 @@
+Transaction_ID,Amount,Transaction_Type,Location,Is_Fraud
+T001,500,Online,India,0
+T002,2000,POS,India,0
+T003,15000,Online,Unknown,1
+T004,300,ATM,India,0
+T005,25000,Online,Unknown,1
+T006,700,POS,India,0
+T007,12000,Online,Unknown,1
+T008,400,ATM,India,0
+T009,18000,Online,Unknown,1
+T010,900,POS,India,0
